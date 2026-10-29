@@ -1,14 +1,14 @@
 {
   "build": {
-    "shell": "09db806f82",
-    "media": "0372927f00"
+    "shell": "fc57ae512c",
+    "media": "3fa9e56190"
   },
   "shell": [
     "/index.html",
     "/manifest.webmanifest",
     "/favicon.svg",
-    "/assets/index-BDqXS4e2.css",
-    "/assets/index-DLCRMDgZ.js",
+    "/assets/index-ByCsZJ4S.css",
+    "/assets/index-l6FR-dK2.js",
     "/icons/apple-touch-icon.png",
     "/icons/icon-192.png",
     "/icons/icon-512.png",

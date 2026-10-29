@@ -27,7 +27,7 @@
           "full": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-day-soft/full.jpg",
           "mid": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-day-soft/mid.jpg",
           "close": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-day-soft/close.jpg",
-          "fullFeet": 0.996,
+          "fullFeet": 0.884,
           "outfit": {
             "name": "Day soft",
             "desc": "Cream knit + light jeans + gold hoops"
@@ -37,7 +37,7 @@
           "full": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-evening-ease/full.jpg",
           "mid": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-evening-ease/mid.jpg",
           "close": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-evening-ease/close.jpg",
-          "fullFeet": 1.0,
+          "fullFeet": 0.944,
           "outfit": {
             "name": "Evening ease",
             "desc": "Black tee + olive jacket + dark jeans"
@@ -47,7 +47,7 @@
           "full": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-weekend-bright/full.jpg",
           "mid": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-weekend-bright/mid.jpg",
           "close": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-weekend-bright/close.jpg",
-          "fullFeet": 0.988,
+          "fullFeet": 0.944,
           "outfit": {
             "name": "Weekend bright",
             "desc": "Sage button-up + sneakers vibe + bracelet"
@@ -95,7 +95,7 @@
           "full": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-weekend-bright/full.jpg",
           "mid": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-weekend-bright/mid.jpg",
           "close": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-weekend-bright/close.jpg",
-          "fullFeet": 0.988,
+          "fullFeet": 0.825,
           "outfit": {
             "name": "Weekend bright",
             "desc": "Sage button-up + sneakers vibe + bracelet"
@@ -133,7 +133,7 @@
           "full": "/lifestyle/scenes/scene-living-couch/variants/outfit-evening-ease/full.jpg",
           "mid": "/lifestyle/scenes/scene-living-couch/variants/outfit-evening-ease/mid.jpg",
           "close": "/lifestyle/scenes/scene-living-couch/variants/outfit-evening-ease/close.jpg",
-          "fullFeet": 1.0,
+          "fullFeet": 0.952,
           "outfit": {
             "name": "Evening ease",
             "desc": "Black tee + olive jacket + dark jeans"
@@ -143,7 +143,7 @@
           "full": "/lifestyle/scenes/scene-living-couch/variants/outfit-weekend-bright/full.jpg",
           "mid": "/lifestyle/scenes/scene-living-couch/variants/outfit-weekend-bright/mid.jpg",
           "close": "/lifestyle/scenes/scene-living-couch/variants/outfit-weekend-bright/close.jpg",
-          "fullFeet": 1.0,
+          "fullFeet": 0.917,
           "outfit": {
             "name": "Weekend bright",
             "desc": "Sage button-up + sneakers vibe + bracelet"
@@ -191,7 +191,7 @@
           "full": "/lifestyle/scenes/scene-change-outfit/variants/outfit-weekend-bright/full.jpg",
           "mid": "/lifestyle/scenes/scene-change-outfit/variants/outfit-weekend-bright/mid.jpg",
           "close": "/lifestyle/scenes/scene-change-outfit/variants/outfit-weekend-bright/close.jpg",
-          "fullFeet": 0.969,
+          "fullFeet": 0.950,
           "outfit": {
             "name": "Weekend bright",
             "desc": "Sage button-up + sneakers vibe + bracelet"

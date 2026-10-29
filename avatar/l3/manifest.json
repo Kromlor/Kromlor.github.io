@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "enabled": true,
+  "driver": "clip-loop",
+  "src": "/avatar/l3/talk-loop.mp4",
+  "fallback": "l2"
+}

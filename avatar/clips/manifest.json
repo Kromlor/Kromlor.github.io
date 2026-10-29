@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "still": "/avatar/janine-ref.png",
+  "crop": "shoulders-up",
+  "clips": {
+    "talk": {
+      "src": "/avatar/clips/talk.mp4",
+      "durationMs": 2040
+    },
+    "smile": {
+      "src": "/avatar/clips/smile.mp4",
+      "durationMs": 2040
+    },
+    "nod": {
+      "src": "/avatar/clips/nod.mp4",
+      "durationMs": 1040
+    }
+  }
+}

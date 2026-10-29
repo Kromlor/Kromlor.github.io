@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "order": [
+    "scene-kitchen-dishes",
+    "scene-bedroom-tv",
+    "scene-living-couch",
+    "scene-change-outfit"
+  ],
+  "scenes": {
+    "scene-kitchen-dishes": {
+      "label": "Dishes",
+      "status": "approved",
+      "caption": "Dishes",
+      "crops": {
+        "full": "/lifestyle/scenes/scene-kitchen-dishes/full.jpg",
+        "mid": "/lifestyle/scenes/scene-kitchen-dishes/mid.jpg",
+        "close": "/lifestyle/scenes/scene-kitchen-dishes/close.jpg"
+      },
+      "fallback": "/avatar/janine-ref.png",
+      "outfit": {
+        "name": "Grey lounge",
+        "desc": "Grey ribbed tank + grey lounge pants, thin necklace."
+      },
+      "variants": {
+        "outfit-day-soft": {
+          "full": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-day-soft/full.jpg",
+          "mid": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-day-soft/mid.jpg",
+          "close": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-day-soft/close.jpg",
+          "outfit": {
+            "name": "Day soft",
+            "desc": "Cream knit + light jeans + gold hoops"
+          }
+        },
+        "outfit-evening-ease": {
+          "full": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-evening-ease/full.jpg",
+          "mid": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-evening-ease/mid.jpg",
+          "close": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-evening-ease/close.jpg",
+          "outfit": {
+            "name": "Evening ease",
+            "desc": "Black tee + olive jacket + dark jeans"
+          }
+        },
+        "outfit-weekend-bright": {
+          "full": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-weekend-bright/full.jpg",
+          "mid": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-weekend-bright/mid.jpg",
+          "close": "/lifestyle/scenes/scene-kitchen-dishes/variants/outfit-weekend-bright/close.jpg",
+          "outfit": {
+            "name": "Weekend bright",
+            "desc": "Sage button-up + sneakers vibe + bracelet"
+          }
+        }
+      }
+    },
+    "scene-bedroom-tv": {
+      "label": "TV in bed",
+      "status": "approved",
+      "caption": "TV in bed",
+      "crops": {
+        "full": "/lifestyle/scenes/scene-bedroom-tv/full.jpg",
+        "mid": "/lifestyle/scenes/scene-bedroom-tv/mid.jpg",
+        "close": "/lifestyle/scenes/scene-bedroom-tv/close.jpg"
+      },
+      "fallback": "/avatar/janine-ref.png",
+      "outfit": {
+        "name": "Grey sweatshirt + joggers",
+        "desc": "Oversized heather-grey crewneck sweatshirt, grey joggers, white socks."
+      },
+      "variants": {
+        "outfit-day-soft": {
+          "full": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-day-soft/full.jpg",
+          "mid": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-day-soft/mid.jpg",
+          "close": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-day-soft/close.jpg",
+          "outfit": {
+            "name": "Day soft",
+            "desc": "Cream knit + light jeans + gold hoops"
+          }
+        },
+        "outfit-evening-ease": {
+          "full": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-evening-ease/full.jpg",
+          "mid": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-evening-ease/mid.jpg",
+          "close": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-evening-ease/close.jpg",
+          "outfit": {
+            "name": "Evening ease",
+            "desc": "Black tee + olive jacket + dark jeans"
+          }
+        },
+        "outfit-weekend-bright": {
+          "full": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-weekend-bright/full.jpg",
+          "mid": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-weekend-bright/mid.jpg",
+          "close": "/lifestyle/scenes/scene-bedroom-tv/variants/outfit-weekend-bright/close.jpg",
+          "outfit": {
+            "name": "Weekend bright",
+            "desc": "Sage button-up + sneakers vibe + bracelet"
+          }
+        }
+      }
+    },
+    "scene-living-couch": {
+      "label": "Couch",
+      "status": "approved",
+      "caption": "Couch",
+      "crops": {
+        "full": "/lifestyle/scenes/scene-living-couch/full.jpg",
+        "mid": "/lifestyle/scenes/scene-living-couch/mid.jpg",
+        "close": "/lifestyle/scenes/scene-living-couch/close.jpg"
+      },
+      "fallback": "/avatar/janine-ref.png",
+      "outfit": {
+        "name": "White tank + denim shirt + shorts",
+        "desc": "White ribbed tank under an open light-blue denim shirt, light-wash denim shorts, barefoot."
+      },
+      "variants": {
+        "outfit-day-soft": {
+          "full": "/lifestyle/scenes/scene-living-couch/variants/outfit-day-soft/full.jpg",
+          "mid": "/lifestyle/scenes/scene-living-couch/variants/outfit-day-soft/mid.jpg",
+          "close": "/lifestyle/scenes/scene-living-couch/variants/outfit-day-soft/close.jpg",
+          "outfit": {
+            "name": "Day soft",
+            "desc": "Cream knit + light jeans + gold hoops"
+          }
+        },
+        "outfit-evening-ease": {
+          "full": "/lifestyle/scenes/scene-living-couch/variants/outfit-evening-ease/full.jpg",
+          "mid": "/lifestyle/scenes/scene-living-couch/variants/outfit-evening-ease/mid.jpg",
+          "close": "/lifestyle/scenes/scene-living-couch/variants/outfit-evening-ease/close.jpg",
+          "outfit": {
+            "name": "Evening ease",
+            "desc": "Black tee + olive jacket + dark jeans"
+          }
+        },
+        "outfit-weekend-bright": {
+          "full": "/lifestyle/scenes/scene-living-couch/variants/outfit-weekend-bright/full.jpg",
+          "mid": "/lifestyle/scenes/scene-living-couch/variants/outfit-weekend-bright/mid.jpg",
+          "close": "/lifestyle/scenes/scene-living-couch/variants/outfit-weekend-bright/close.jpg",
+          "outfit": {
+            "name": "Weekend bright",
+            "desc": "Sage button-up + sneakers vibe + bracelet"
+          }
+        }
+      }
+    },
+    "scene-change-outfit": {
+      "label": "Change clothes",
+      "status": "approved",
+      "caption": "Change clothes",
+      "crops": {
+        "full": "/lifestyle/scenes/scene-change-outfit/full.jpg",
+        "mid": "/lifestyle/scenes/scene-change-outfit/mid.jpg",
+        "close": "/lifestyle/scenes/scene-change-outfit/close.jpg"
+      },
+      "fallback": "/avatar/janine-ref.png",
+      "outfit": {
+        "name": "Pink tee + grey shorts",
+        "desc": "Fitted pink short-sleeve tee, grey cotton lounge shorts, white sneakers; holding a floral sundress."
+      },
+      "variants": {
+        "outfit-day-soft": {
+          "full": "/lifestyle/scenes/scene-change-outfit/variants/outfit-day-soft/full.jpg",
+          "mid": "/lifestyle/scenes/scene-change-outfit/variants/outfit-day-soft/mid.jpg",
+          "close": "/lifestyle/scenes/scene-change-outfit/variants/outfit-day-soft/close.jpg",
+          "outfit": {
+            "name": "Day soft",
+            "desc": "Cream knit + light jeans + gold hoops"
+          }
+        },
+        "outfit-evening-ease": {
+          "full": "/lifestyle/scenes/scene-change-outfit/variants/outfit-evening-ease/full.jpg",
+          "mid": "/lifestyle/scenes/scene-change-outfit/variants/outfit-evening-ease/mid.jpg",
+          "close": "/lifestyle/scenes/scene-change-outfit/variants/outfit-evening-ease/close.jpg",
+          "outfit": {
+            "name": "Evening ease",
+            "desc": "Black tee + olive jacket + dark jeans"
+          }
+        },
+        "outfit-weekend-bright": {
+          "full": "/lifestyle/scenes/scene-change-outfit/variants/outfit-weekend-bright/full.jpg",
+          "mid": "/lifestyle/scenes/scene-change-outfit/variants/outfit-weekend-bright/mid.jpg",
+          "close": "/lifestyle/scenes/scene-change-outfit/variants/outfit-weekend-bright/close.jpg",
+          "outfit": {
+            "name": "Weekend bright",
+            "desc": "Sage button-up + sneakers vibe + bracelet"
+          }
+        }
+      }
+    }
+  }
+}
